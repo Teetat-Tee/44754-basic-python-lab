@@ -1,0 +1,5 @@
+a = int(250)
+b = int(150)
+c = int(5)
+d = int(2)
+print((a + b)*d/c)  
