@@ -1,5 +1,5 @@
-price = 500 
-quantity = 10 
-discount = 0.9
-total = price * quantity * discount
-print("Total price is:", total)
+price = 500 #กำหนดราคา
+quantity = 10 #กำหนดจำนวน
+discount = 0.9 #ส่วนลด
+total = price * quantity * discount #คำนวณราคารวม
+print("Total price is:", total) #แสดงราคาทั้งหมด
