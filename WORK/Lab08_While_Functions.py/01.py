@@ -1,5 +1,5 @@
 while True:
     line = int(input("> "))
-    if line >= 0 :
+    if line > 0 :
         break
 print(line)
