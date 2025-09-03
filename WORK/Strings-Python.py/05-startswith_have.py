@@ -1,3 +1,6 @@
-word = str(input())
-a = word.lower()
-print(a)
+line = input().strip()
+
+if line.lower().startswith("have"):
+    print("OK")
+else:
+    print("NO")
